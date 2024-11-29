@@ -1,4 +1,4 @@
-const url = "https://w3schools.com";
+const url = "https://mortaiwasnotallowed.github.io/WindowCl/";
 
 window.onload = function() {
     console.log("opening w3schools");
